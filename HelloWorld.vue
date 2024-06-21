@@ -18,6 +18,20 @@
       <li><a href="https://wa.me/5565999289914" target="_blank" rel="noopener">Whatsapp</a></li>
       <li><a href="https://www.instagram.com/marciaferreirabolos/" target="_blank" rel="noopener">Instagram</a></li>
     </ul>
+    <h3>Realizar cadastro de cliente</h3>
+    <ul>
+      <div>
+        <div class="input-wrapper">
+          <input type="text" placeholder="Nome Completo" name="nome">
+        </div>
+        <div>
+          <input type="text" placeholder="Indicação" name="nome">
+        </div>
+          <button>
+            CADASTRAR CLIENTE
+          </button>
+      </div>
+    </ul>
   </div>
 </template>
 
